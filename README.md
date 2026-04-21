@@ -1,7 +1,7 @@
 # Power BI Dashboard Project
 
 ## Overview
-This project contains a Power BI dashboard analyzing [your topic: sales, finance, etc.].
+This project contains a Power BI dashboard analyzing [Data Professional Survey Breakdown].
 
 ## Features
 - Interactive dashboards
@@ -13,7 +13,7 @@ This project contains a Power BI dashboard analyzing [your topic: sales, finance
 
 ## Tools Used
 - Power BI
-- Excel / SQL (if used)
+- Excel
 
 ## How to Use
 1. Download the .pbix file
